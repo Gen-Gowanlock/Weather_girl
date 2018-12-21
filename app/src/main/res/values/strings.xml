@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather_Girl</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="remember">remember</string>
+    <string name="current_forecast">Current Forecast</string>
+    <string name="_5_day_forecast">5 day forecast</string>
+    <string name="next_12_hours">Next Few Hours</string>
+    <string name="search">Search</string>
+    <string name="location">Location</string>
+    <string name="the_next_few_hours">The Next Few Hours</string>
+</resources>
