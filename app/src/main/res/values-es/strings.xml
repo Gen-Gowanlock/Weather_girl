@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //COME BACK HERE LATER
+    <string name="app_name">Clima_Chica</string>
+    <string name="password">contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="sign_up">Regístrate</string>
+    <string name="email">correo electrónico</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="remember">recuerda</string>
+    <string name="current_forecast">Pronóstico Actual</string>
+    <string name="_5_day_forecast">5 día Fronóstico</string>
+    <string name="next_12_hours">Las Próximas Horas</string>
+    <string name="search">Buscar</string>
+    <string name="location">Ubicación</string>
+    <string name="the_next_few_hours">Las Próximas Horas</string>
+</resources>
